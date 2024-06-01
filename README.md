@@ -1,6 +1,6 @@
 # Intern  task  CI/CD  (pipeline)  💻 ☁️
 
-> TLDR; This repository is a sample task demonstrating a basic continuous integration (CI) / continuous deployment (CD) setup. 
+ This repository is a sample task demonstrating a basic continuous integration (CI) / continuous deployment (CD) setup. 
 
 ## Project structure
 
